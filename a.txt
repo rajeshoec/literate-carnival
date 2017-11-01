@@ -1,5 +1,4 @@
 hello
 <first>
-
 </first>
 <second>
